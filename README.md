@@ -10,3 +10,9 @@ This repository contains all of the notes taken by Adam Underhill for the Lighth
 [Adam](https://github.com/aeunderhill)
 
 [Lighthouse Labs](https://www.lighthouselabs.ca/)
+
+
+### Table of Contents
+  * [Week 1](/Week_1)
+    * [Day 1](/Week_1/Day_1)
+
